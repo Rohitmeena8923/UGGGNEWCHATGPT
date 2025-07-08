@@ -1,7 +1,5 @@
-pyrogram
+pyrogram==2.0.36
 tgcrypto
-requests
 aiohttp
 aiofiles
 Flask
-python-dotenv
